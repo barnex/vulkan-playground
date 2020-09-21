@@ -1,5 +1,5 @@
 [package]
-name = "vulkan-playground"
+name = "vulkan_playground"
 version = "0.1.0"
 authors = ["Arne Vansteenkiste <barnex@gmail.com>"]
 edition = "2018"
